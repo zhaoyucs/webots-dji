@@ -1,0 +1,3 @@
+[submodule "VLNCE"]
+	path = VLNCE
+	url = git@github.com:jacobkrantz/VLN-CE.git
